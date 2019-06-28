@@ -1,0 +1,9 @@
+POST http://localhost:8080/books/123
+Accept: application/json
+
+###
+
+PUT http://localhost:8080/books/123?name=Book-123
+Accept: application/json
+
+###
